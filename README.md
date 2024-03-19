@@ -23,17 +23,22 @@ This Code provides a step-by-step guide to:
 
 ## USAGE
 1. Clone the repository:
+
+```bash
 git clone https://github.com/aakash0210/MNIST-Digit-classification.git
-
+ ```
 2. Navigate to the repository directory:
-cd MNIST-Digit-classification
 
-3. Open and run the MNIST_CNN.ipynb notebook in a Jupyter environment.
+```bash
+cd MNIST-Digit-classification
+ ```
+3. Open and run the MNIST.ipynb notebook in a Jupyter environment.
 
 4. Follow the instructions within the notebook to train and test the CNN model.
 
 ## NOTES
 Make sure you have the required dependencies installed. You can install them using pip:
+```bash
 pip install torch torchvision matplotlib
-
+```
 Feel free to adjust hyperparameters, network architecture, or any other aspects of the code to experiment with different configurations.
