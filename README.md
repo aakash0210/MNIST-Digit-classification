@@ -1,1 +1,1 @@
-# MNIST-Digit-classification
+# MNIST Handwritten Digit Classification with PyTorch
