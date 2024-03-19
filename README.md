@@ -37,8 +37,8 @@ cd MNIST-Digit-classification
 4. Follow the instructions within the notebook to train and test the CNN model.
 
 ## NOTES
-Make sure you have the required dependencies installed. You can install them using pip:
+- Make sure you have the required dependencies installed. You can install them using pip:
 ```bash
 pip install torch torchvision matplotlib
 ```
-Feel free to adjust hyperparameters, network architecture, or any other aspects of the code to experiment with different configurations.
+- Feel free to adjust hyperparameters, network architecture, or any other aspects of the code to experiment with different configurations.
